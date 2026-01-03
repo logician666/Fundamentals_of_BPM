@@ -13,5 +13,5 @@ own homework.
 # Contacts for notes or errata
 If you have any comments to the conents of the repository, or found a mistake in
 my writing, kindly send an email to
-(logician666@outlook.com)[mailto:logician666@outlook.com], and fully qualify the
+[logician666@outlook.com](mailto:logician666@outlook.com), and fully qualify the
 part(s) you wish to address.
