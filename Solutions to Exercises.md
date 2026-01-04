@@ -37,10 +37,30 @@ includes a list of admitted and rejected candidates. A few days later, the
 admissions office notifies the outcome to each candidate via email.
 Additionally, successful candidates are sent a confirmation letter by post.
 
+With respect to the above process, consider the following questions:
+  1. Who are the actors in this process?
+  2. Which actors can be considered as customers in this process?
+  3. What value does the process deliver to its customers?
+  4. What are the possible outcomes of this process
+
 # Solution 1.1
 1. The actors in the process are:
-    a. Applicants (candidates, students),
+    a. Applicants (specifically candid students),
     b. The information system that manages the applications,
-    c. The admissions office,
-    :
+    c. The admissions office (including all officers working in it),
+    d. The academic recognition agency,
+    e. The academic committee,
+    f. The chair fo the committee.
 
+    Note: the post office can be considered as both an actor or a means of
+    communication (choreography service). But given its insignificance to the
+    process activities, we consider it as the latter.
+2. Students are the actors who may be considered as customers in this process.
+3. The process provide the value of _admission into university_ for _qualified
+students_.
+4. Any student applying to the university, either:
+    a. Gets approved to the university,
+    b. Gets rejected from being admitted,
+    c. Receives no information back if his email wasn't communicated with the
+    batch of documents sent at the beginning of the process to the admissions 
+    office.
